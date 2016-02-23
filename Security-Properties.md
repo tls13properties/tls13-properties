@@ -8,16 +8,16 @@ This list will be consolidated after the initial call for contributions has clos
 
 Property | Informal Description | Expanded Description | Model Type | Formal Definition
 ------------ | ------------ | ------------ | ------------ | ------------ 
-Property name. | One or two sentences providing an intuitive description of the property. | One or two paragraphs providing additional detail (still intended to be high-level/semi-formal). | Computational/Symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource. Feel free  to add description files to the LaTex folder if required. 
+Property name | One or two sentences providing an intuitive description of the property | One or two paragraphs providing additional detail (still intended to be high-level/semi-formal) | Computational, symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource (feel free to add description files to the LaTex folder if required)
 
 ## Authentication Properties 
 
 Property | Informal Description | Expanded Description | Model Type | Formal Definition
 ------------ | ------------ | ------------ | ------------ | ------------ 
-Property name. | One or two sentences providing an intuitive description of the property. | One or two paragraphs providing more detail (still intended to be high-level/semi-formal).  | Computational/Symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource. Feel free to add description files to the LaTex folder if required. 
+Property name | One or two sentences providing an intuitive description of the property | One or two paragraphs providing more detail (still intended to be high-level/semi-formal)  | Computational/Symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource (feel free to add description files to the LaTex folder if required)
 
 ## Other
 
 Property | Informal Description | Expanded Description | Model Type | Formal Definition
 ------------ | ------------ | ------------ | ------------ | ------------ 
-Property name. | One or two sentences providing an intuitive description of the property. | One or two paragraphs providing more detail (still intended to be high-level/semi-formal). | Computational/Symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource. Feel free  to add description files to the LaTex folder if required. 
+Property name | One or two sentences providing an intuitive description of the property | One or two paragraphs providing more detail (still intended to be high-level/semi-formal) | Computational/Symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource (feel free  to add description files to the LaTex folder if required)
