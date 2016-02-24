@@ -1,8 +1,8 @@
-# TLS 1.3 Security Properties
+# TLS 1.3: List of Security Properties
 
-This is a running list of security properties applicable to TLS 1.3. At this stage, this list is intended to be a place for contributors to add properties covered by their analyses and to provide links to the relevant resources. This list is also intended capture properties that are desirable for TLS 1.3 (even if not currently covered by an analysis). 
+This is a running list of security properties applicable to TLS 1.3. At this stage, this list is intended to be a place for contributors to add properties covered by their analyses and to provide links to the relevant resources. This list is also intended to capture properties that are desirable for TLS 1.3 (even if not currently covered by an analysis). 
 
-This list will be consolidated after the initial call for contributions has closed. 
+This list will be consolidated periodically. 
 
 ## Secrecy Properties
 
