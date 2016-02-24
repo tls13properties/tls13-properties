@@ -1,0 +1,1 @@
+For all additional property descriptions (formal definitions). 
