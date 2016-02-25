@@ -15,7 +15,7 @@ Property name | One or two sentences providing an intuitive description of the p
 Property | Informal Description | Expanded Description | Model Type | Formal Definition
 ------------ | ------------ | ------------------------- | ------------ | ------------ 
 Property name | One or two sentences providing an intuitive description of the property | One or two paragraphs providing more detail (still intended to be high-level/semi-formal)  | Computational, symbolic | A [link](https://guides.github.com/features/mastering-markdown/) to the relevant paper/resource (feel free to add description files to the LaTex folder if required)
-Version downgrade protection | A client and server supporting TLS 1.3 should negotiate 1.3, even if they both support older versions of TLS | Let two TLS sessions be partnered when they have the same pair of nonces. TLS is version downgrade secure if partnered sessions always negotiate the version they would negotiate when no adversary is present. | both (Computationally this is expressed using negation and a negligible adversary advantage) | Paper on downgrade definitions: http://eprint.iacr.org/2016/072.pdf
+Version downgrade protection | A client and server supporting TLS 1.3 should negotiate 1.3, even if they both support older versions of TLS | Let two TLS sessions be partnered when they have the same pair of nonces. TLS is version downgrade secure if partnered sessions always negotiate the version they would negotiate when no adversary is present. | both (Computationally this is expressed using negation and a negligible adversary advantage) | [Paper](http://eprint.iacr.org/2016/072.pdf) on downgrade definitions. 
 
 ## Other
 
